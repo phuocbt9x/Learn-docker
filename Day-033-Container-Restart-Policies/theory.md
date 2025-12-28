@@ -96,3 +96,11 @@ $ docker run -d --restart=always app
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-034: Logging-Strategies-Production](../Day-034-Logging-Strategies-Production/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

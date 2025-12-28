@@ -918,3 +918,11 @@ Bây giờ bạn đã:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-009: Container-Logs-va-Debugging](../Day-009-Container-Logs-va-Debugging/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

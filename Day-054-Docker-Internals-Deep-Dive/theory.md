@@ -124,3 +124,11 @@ Sau khi hoàn thành day này, bạn sẽ:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-055: Production-Architecture-Patterns](../Day-055-Production-Architecture-Patterns/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

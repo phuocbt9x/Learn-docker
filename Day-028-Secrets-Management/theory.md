@@ -99,3 +99,11 @@ $ docker run -e API_KEY=$API_KEY app
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-029: Image-Vulnerabilities-Patching](../Day-029-Image-Vulnerabilities-Patching/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

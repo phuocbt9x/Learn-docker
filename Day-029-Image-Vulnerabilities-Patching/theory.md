@@ -99,3 +99,11 @@ RUN apt-get update && apt-get upgrade -y
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-030: Container-Isolation-Resource-Limits](../Day-030-Container-Isolation-Resource-Limits/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

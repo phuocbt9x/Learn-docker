@@ -184,3 +184,11 @@ $ docker run -m 1g app
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-048: Network-Connectivity-Problems](../Day-048-Network-Connectivity-Problems/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

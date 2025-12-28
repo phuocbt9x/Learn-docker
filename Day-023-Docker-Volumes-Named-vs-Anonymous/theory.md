@@ -128,3 +128,11 @@ $ docker run -d -v db-data:/var/lib/postgresql/data postgres
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-024: Bind-Mounts-vs-Volumes](../Day-024-Bind-Mounts-vs-Volumes/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

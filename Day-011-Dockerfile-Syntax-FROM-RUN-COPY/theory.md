@@ -876,3 +876,11 @@ Bây giờ bạn đã:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-012: CMD-vs-ENTRYPOINT](../Day-012-CMD-vs-ENTRYPOINT/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

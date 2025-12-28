@@ -347,3 +347,11 @@ Bây giờ bạn đã:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-042: Build-Push-Images-trong-CI](../Day-042-Build-Push-Images-trong-CI/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

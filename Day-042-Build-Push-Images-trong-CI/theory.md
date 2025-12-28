@@ -143,3 +143,11 @@ build:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-043: Docker-Layer-Caching-trong-CI](../Day-043-Docker-Layer-Caching-trong-CI/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

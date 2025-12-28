@@ -111,3 +111,11 @@ services:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-049: Permission-Filesystem-Issues](../Day-049-Permission-Filesystem-Issues/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

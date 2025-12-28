@@ -121,3 +121,11 @@ $ docker buildx imagetools inspect my-app:latest
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-053: Container-Runtime-Interface-CRI](../Day-053-Container-Runtime-Interface-CRI/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

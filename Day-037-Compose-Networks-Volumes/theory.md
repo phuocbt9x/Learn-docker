@@ -219,3 +219,11 @@ networks:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-038: Compose-Environment-Variables](../Day-038-Compose-Environment-Variables/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

@@ -414,3 +414,11 @@ Bây giờ bạn đã:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-022: Custom-Networks-Container-Communication](../Day-022-Custom-Networks-Container-Communication/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

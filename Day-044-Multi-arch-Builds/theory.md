@@ -102,3 +102,11 @@ $ docker buildx build --platform linux/amd64,linux/arm64 \
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-045: CI-CD-Best-Practices](../Day-045-CI-CD-Best-Practices/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

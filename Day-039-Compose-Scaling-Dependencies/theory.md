@@ -125,3 +125,11 @@ services:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-040: Compose-Production-Patterns](../Day-040-Compose-Production-Patterns/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

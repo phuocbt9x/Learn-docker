@@ -133,3 +133,11 @@ $ docker run -m 1g --cpus="2" app
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-031: Container-Health-Checks](../Day-031-Container-Health-Checks/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

@@ -165,3 +165,11 @@ $ docker run -m 1g --cpus="2" app
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-033: Container-Restart-Policies](../Day-033-Container-Restart-Policies/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

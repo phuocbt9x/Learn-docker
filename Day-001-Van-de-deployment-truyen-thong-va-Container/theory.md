@@ -503,3 +503,11 @@ Bây giờ bạn đã hiểu:
 
 **Lưu ý:** Tất cả số liệu performance, cost trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-002: Virtual-Machine-vs-Container](../Day-002-Virtual-Machine-vs-Container/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

@@ -458,3 +458,11 @@ Bây giờ bạn đã:
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-047: OOM-Out-of-Memory-Issues](../Day-047-OOM-Out-of-Memory-Issues/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)

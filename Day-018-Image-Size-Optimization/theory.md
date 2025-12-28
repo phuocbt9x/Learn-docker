@@ -133,3 +133,11 @@ RUN build-command && \
 
 **Lưu ý:** Tất cả số liệu performance, incidents trong production stories là illustrative/approximate cho mục đích giáo dục.
 
+
+---
+
+## 📚 NAVIGATION
+
+[→ Day-019: BuildKit-Advanced-Build](../Day-019-BuildKit-Advanced-Build/theory.md)
+
+**Hoặc quay lại:** [← ROADMAP](../ROADMAP.md)
